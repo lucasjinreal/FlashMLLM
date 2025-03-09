@@ -1,0 +1,11 @@
+checkpoints/
+__pycache__/
+.DS_store
+*.egg-info/
+dist/
+vendor/
+eval_results/
+*.webui_secret_key
+*.wav
+
+
